@@ -1,0 +1,16 @@
+body{
+   background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,5)),  url('../img/b.jpg');
+   background-size: cover;
+	background-repeat: no-repeat;
+	background-position: center;
+	height: 100vh;
+}
+img{
+	max-width: 100%;
+	height: auto;
+}
+.fa-star,
+.fa-star-half{
+       color: yellowgreen;
+       padding: 3% 0;
+}
